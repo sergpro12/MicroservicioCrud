@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\CRUD\CRUD\bin\Debug\netcoreapp2.1\CRUD.deps.json
+C:\Users\Acer\source\repos\CRUD\CRUD\bin\Debug\netcoreapp2.1\CRUD.runtimeconfig.json
+C:\Users\Acer\source\repos\CRUD\CRUD\bin\Debug\netcoreapp2.1\CRUD.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\CRUD\CRUD\bin\Debug\netcoreapp2.1\CRUD.dll
+C:\Users\Acer\source\repos\CRUD\CRUD\bin\Debug\netcoreapp2.1\CRUD.pdb
+C:\Users\Acer\source\repos\CRUD\CRUD\obj\Debug\netcoreapp2.1\CRUD.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\CRUD\CRUD\obj\Debug\netcoreapp2.1\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\CRUD\CRUD\obj\Debug\netcoreapp2.1\CRUD.RazorAssemblyInfo.cache
+C:\Users\Acer\source\repos\CRUD\CRUD\obj\Debug\netcoreapp2.1\CRUD.RazorAssemblyInfo.cs
+C:\Users\Acer\source\repos\CRUD\CRUD\obj\Debug\netcoreapp2.1\CRUD.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\CRUD\CRUD\obj\Debug\netcoreapp2.1\CRUD.AssemblyInfo.cs
+C:\Users\Acer\source\repos\CRUD\CRUD\obj\Debug\netcoreapp2.1\CRUD.RazorTargetAssemblyInfo.cache
+C:\Users\Acer\source\repos\CRUD\CRUD\obj\Debug\netcoreapp2.1\CRUD.dll
+C:\Users\Acer\source\repos\CRUD\CRUD\obj\Debug\netcoreapp2.1\CRUD.pdb
